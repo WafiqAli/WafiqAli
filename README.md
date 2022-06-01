@@ -1,4 +1,4 @@
-### Hi there, I'm Wafiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Wafiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 - 🎓 &nbsp;I am currently learning advanced software development at Mission Ready and am a recent Computer Science Graduate.
 - 🔭 &nbsp;I’m always working on something new every week with Mission Ready 😄
