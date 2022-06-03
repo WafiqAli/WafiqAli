@@ -11,3 +11,4 @@ You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/wafiqcali)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WafiqAli&theme=monokai)
