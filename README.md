@@ -2,10 +2,9 @@
 
 - 💼 &nbsp;I'm currently doing an internship as a software developer for Datacom NZ.
 - 🌱 &nbsp;Learning Flutter and Dart ^_^
-- 🎓 &nbsp;I'm undergoing an advanced software development program at Mission Ready and am a Computer Science Graduate.
-- 🔭 &nbsp;Working on an exciting project at Datacom dealing with mobile app development and augmented reality!
+- 🔭 &nbsp;Working on an exciting project dealing with augmented reality and Unity3D!
 
-Software development is awesome! I enjoy working on web development with technologies such as React.js and traditional HTML, CSS, JS. However, I have experience with other programming languages such as Python, C/C#, Java and am always eager to learn new and interesting technologies throughout my journey to become an adept software developer 😁.
+Software development is awesome! I enjoy working on a multitude of technologies and I have experience with several programming languages and technologies such as React.js, HTML/CSS/JS, Flutter, Unity, Python, C/C#, Java, and more, and am always eager to learn new and interesting technologies throughout my lifelong journey to become an adept software developer 😁.
 
 You can find me on:
 
