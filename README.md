@@ -4,7 +4,7 @@
 - 🌱 &nbsp;Learning Flutter and Dart ^_^
 - 🔭 &nbsp;Working on an exciting project dealing with augmented reality and Unity3D!
 
-Software development is awesome! I enjoy working on a multitude of technologies and I have experience with several programming languages and technologies such as React.js, HTML/CSS/JS, Flutter, Unity, Python, C/C#, Java, and more, and am always eager to learn new and interesting technologies throughout my lifelong journey to become an adept software developer 😁.
+Software development is awesome! I enjoy working on a multitude of technologies and I have experience with several programming languages and technologies such as React.js, HTML/CSS/JS, Flutter, Unity, Python, C/C#, Java, and more, and am always eager to learn new and interesting technologies throughout my journey to become an adept software developer 😁.
 
 You can find me on:
 
