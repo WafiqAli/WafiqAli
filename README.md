@@ -1,6 +1,6 @@
 ### Hi there, I'm Wafiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-- 💼 &nbsp;I'm currently doing an internship as a software developer for Datacom NZ.
+- 💼 &nbsp;I'm currently a graduate software developer at Datacom.
 - 🌱 &nbsp;Learning Flutter and Dart ^_^
 - 🔭 &nbsp;Working on an exciting project dealing with augmented reality and Unity3D!
 
