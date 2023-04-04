@@ -1,8 +1,8 @@
 ### Hi there, I'm Wafiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 - 💼 &nbsp;I'm currently a graduate software developer at Datacom.
-- 🌱 &nbsp;Learning Flutter and Dart ^_^
-- 🔭 &nbsp;Working on an exciting project dealing with augmented reality and Unity3D!
+- 🌱 &nbsp;Currently learning C# and .NET 
+- 🔭 &nbsp;Continuously growing and exploring new opportunities!
 
 Software development is awesome! I enjoy working on a multitude of technologies and I have experience with several programming languages and technologies such as React.js, HTML/CSS/JS, Flutter, Unity, Python, C/C#, Java, and more, and am always eager to learn new and interesting technologies throughout my journey to become an adept software developer 😁.
 
